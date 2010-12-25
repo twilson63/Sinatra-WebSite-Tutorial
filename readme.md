@@ -3,18 +3,18 @@
 This site is a simple tutorial on how to build a website
 with Ruby and Sinatra.
 
-## Diclaimer
+## Disclaimer
 
-It is intended for Web Developers/Designers that are very 
-familar with html, css, and some javascript.  But are not 
-familar with Ruby or Sinatra.
+This tutorial is intended for Web Developers/Designers that are very 
+familiar with html, css, and some javascript.  But are new to ruby and 
+sinatra.
 
 ## Installing Ruby
 
 ### Mac
 
 Ruby is already installed.  But if you want the latest see:
-http://rvm.beginrescueend.com/
+[http://rvm.beginrescueend.com/](http://rvm.beginrescueend.com/)
 
 ### Linux (Ubuntu)
 
@@ -24,7 +24,7 @@ Open up a Terminal Window and type:
 
 ### Windows
 
-See http://www.ruby-lang.org/en/downloads/ and select the windows
+See [http://www.ruby-lang.org/en/downloads/](http://www.ruby-lang.org/en/downloads/) and select the windows
 installer and follow the instructions.
 
 ## Using Command Line
@@ -38,7 +38,7 @@ Finding the command line...
 
 *** Note while it is very easy to use ruby on Windows and everything
 works, I would recommend installing Ubuntu (www.ubuntu.com) in a virtual machine like
-Virtual Box... (http://www.virtualbox.org/wiki/Downloads)
+Virtual Box... [http://www.virtualbox.org/wiki/Downloads](http://www.virtualbox.org/wiki/Downloads)
 
 #### Why?
 
@@ -72,8 +72,8 @@ Some hard core e-macs or vim
 Some Textmate or e
 
 If you are unsure I would recommend if you are on a Mac to use Textmate
-and if you are on Windows to use e (http://www.e-texteditor.com), lastly
-on Linux you may want to use redcar (http://www.redcareditor.com).
+and if you are on Windows to use e [http://www.e-texteditor.com](http://www.e-texteditor.com), lastly
+on Linux you may want to use redcar [http://www.redcareditor.com](http://www.redcareditor.com).
 
 ### Why? (If you are not use to e-macs or vim, and are used to IDE's with color highlighting)
 
@@ -98,7 +98,7 @@ So we need to install sinatra, we do this by using RubyGems:
 
 If you do not have rubygems installed follow the instructions on the rubygem.org site:
 
-http://rubygems.org/pages/download
+[http://rubygems.org/pages/download](http://rubygems.org/pages/download)
 
 Now that we have sinatra installed lets create a simple web application:
 
@@ -122,9 +122,9 @@ Save the file and go back to your command line and type
 
 This will create a web server running locally on port 4567
 
-You can open a browser to http://localhost:4567 and you should see
+You can open a browser to [http://localhost:4567](http://localhost:4567) and you should see
 
-Hello from Sinatra in your browser.  Congradulations!  Now you are 
+Hello from Sinatra in your browser.  Congratulations!  Now you are 
 ready to build some awesome web apps.
 
 ---
@@ -166,7 +166,7 @@ Save the file as index.erb
 
 Now you should be able to run your web server and nav to
 
-http://localhost:4567 and see Welcome to my awesome web application
+[http://localhost:4567](http://localhost:4567) and see Welcome to my awesome web application
 
     $ ruby app.rb
 
